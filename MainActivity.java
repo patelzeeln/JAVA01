@@ -1,7 +1,7 @@
 public class MainActivity {
     public static void main(String[] x) {
         // Creating an Employee object and calling its methods
-        Employee emp = new Employee("Jignesh Mevada", 21, "9173127734", "123 Elm Street", 50000.0, "Software Engineering");
+        Employee emp = new Employee("Zeel Patel", 21, "9173127734", "123 Elm Street", 50000.0, "Software Engineering");
         System.out.println("Employee Details:");
         System.out.println("Name: " + emp.getName());
         System.out.println("Age: " + emp.getAge());
